@@ -108,7 +108,7 @@ LICENSE file.
   <!-- Properties Management -->
   <properties>
     <!-- sonarcloud -->
-    <sonar.organization>dorian-burihabwa-sonarsource-test-organization</sonar.organization>
+    <sonar.organization>dorian-burihabwa-sonarsource</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- maven settings -->
     <maven.assembly.version>2.5.5</maven.assembly.version>
